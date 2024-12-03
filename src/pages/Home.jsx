@@ -1,7 +1,7 @@
 import React from "react";
 import Balanca from "/balança.svg";
 import HeaderHome from "../components/HeaderHome";
-import ImgFundo from "/Fundo.svg";
+import ImgFundo from "/fundo.svg";
 import Topico from "/topico.png";
 
 export default function Home() {
